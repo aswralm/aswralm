@@ -1,16 +1,14 @@
-### Hi there 👋
+![](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+# Hi there, I'm Aswar Alam 👋
 
-<!--
-**aswralm/aswralm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 I'm a student at the Salt Academy where I learned Golang and web development
+- 💻 I'm passionate about building efficient and scalable back-end systems using Golang
+- 🔥 I’m currently working on personal projects to improve my skills and build my portfolio
+- 🤓Always learning new things and staying up-to-date with the latest technologies
 
-Here are some ideas to get you started:
+## Connect with Me
+- [Twitter](https://www.linkedin.com/in/aswaralam/)
+- [Tumblr](https://aswralm.tumblr.com/)
+- [Medium](https://medium.com/@aswaralam)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
