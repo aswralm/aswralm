@@ -11,4 +11,8 @@
 - [Twitter](https://www.linkedin.com/in/aswaralam/)
 - [Tumblr](https://aswralm.tumblr.com/)
 - [Medium](https://medium.com/@aswaralam)
-
+## Statistik GitHub
+<div style="display: flex; flex-direction: row;">
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=aswralm&theme=tokyonight" width="27%" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswralm&hide_progress=true&theme=tokyonight" width="39%" style="margin-left: 100px;" />
+</div>
