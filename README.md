@@ -17,12 +17,13 @@
 - 🤓Always learning new things and staying up-to-date with the latest technologies
 ### Now Playing 🎧
 
- [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+ [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nowplaying.aswralm)
 
 <br/>
 
 ## Statistik GitHub
-<div style="display: flex; flex-direction: row;">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=aswralm&theme=tokyonight" width="27%" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswralm&hide_progress=true&theme=tokyonight" width="39%" style="margin-left: 100px;" />
-</div>
+<p align=left>
+  <img width="28%" src="https://github-readme-stats.vercel.app/api?username=aswralm&show_icons=true&hide_border=true&theme=algolia" />
+  <img width="29%" src="https://github-readme-streak-stats.herokuapp.com/?user=aswralm&hide_border=true&theme=algolia" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswralm&hide_border=true&theme=algolia" width="21%" />
+</p>
