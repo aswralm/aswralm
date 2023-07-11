@@ -23,7 +23,8 @@
 
 ## Statistik GitHub
 <p align=left>
-  <img width="28%" src="https://github-readme-stats.vercel.app/api?username=aswralm&show_icons=true&hide_border=true&theme=algolia" />
-  <img width="29%" src="https://github-readme-streak-stats.herokuapp.com/?user=aswralm&hide_border=true&theme=algolia" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswralm&hide_border=true&theme=algolia" width="21%" />
+<img width="29%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aswralm&show_icons=true&theme=algolia&include_all_commits=true&count_private=false&hide_border=true"/>
+<img width="29%" src="https://github-readme-streak-stats.herokuapp.com/?user=aswralm&hide_border=true&theme=algolia" />
+<img width="35%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aswralm&layout=compact&langs_count=5&theme=algolia&hide_border=true"/>
 </p>
+
