@@ -6,8 +6,8 @@
   <br>
   <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Arial&size=32&color=FFFFFF&lines=Hi+there!+I'm+AswarAlam.+🚀" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=32&color=000000&lines=Hi+there!+I'm+AswarAlam.+🚀" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Arial&size=32&color=FFFFFF&lines=Hi+there!+I'm+Aswar+Alam.+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=32&color=000000&lines=Hi+there!+I'm+Aswar+Alam.+👋" />
 </picture>
 
 ## About Me
