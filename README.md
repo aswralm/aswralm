@@ -18,7 +18,7 @@
 ### Now Playing 🎧
 &nbsp;<div align="center">
 
-<img loading="lazy" src="https://novatorem-one.vercel.app//api/spotify?background_color=000" alt="Spotify">
+<img loading="lazy" src="https://novatorem-aswralm.vercel.app/api/spotify?background_color=000" alt="Spotify">
 <br/>
 
 ## Statistik GitHub
