@@ -18,8 +18,9 @@
 ### Now Playing 🎧
 &nbsp;<div align="center">
 
-<img loading="lazy" src="https://mixtape-aswralm-one.vercel.app/api/spotify?background_color=000" alt="Spotify">
+<img loading="lazy" src="https://mixtape-aswralm-one.vercel.app/api/spotify?background_color=ffffff" alt="Spotify">
 <br/>
+
 ## Statistik GitHub
 <p align=left>
 <img width="29%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aswralm&show_icons=true&theme=algolia&include_all_commits=true&count_private=false&hide_border=true"/>
