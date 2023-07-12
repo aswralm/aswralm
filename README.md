@@ -16,8 +16,8 @@
 - 🔥 I’m currently working on personal projects to improve my skills and build my portfolio
 - 👀 Always learning new things and staying up-to-date with the latest technologies
 ### Now Playing 🎧
-
- [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nowplaying.aswralm)
+&nbsp;<div align="center">
+[![Spotify](https://novatorem-ruby-three.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/f824euitwq124pnsth85up9nt)
 
 <br/>
 
