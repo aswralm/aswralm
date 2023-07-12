@@ -17,8 +17,8 @@
 - 👀 Always learning new things and staying up-to-date with the latest technologies
 ### Now Playing 🎧
 &nbsp;<div align="center">
-[![Spotify](https://novatorem-ruby-three.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/f824euitwq124pnsth85up9nt)
 
+<img loading="lazy" src="https://novatorem-one.vercel.app//api/spotify?background_color=000" alt="Spotify">
 <br/>
 
 ## Statistik GitHub
