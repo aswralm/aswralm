@@ -9,10 +9,10 @@
 </picture>
 
 ## About Me
-- 🎓 I'm a student at the Salt Academy where I learned Golang and web development
-- 💻 I'm passionate about building efficient and scalable back-end systems using Golang
-- 🔥 I’m currently working on personal projects to improve my skills and build my portfolio
-- 👀 Always learning new things and staying up-to-date with the latest technologies
+- 🎓 I am forever a `student` learning Golang and web development
+- 💻 I'm `passionate` about building efficient and scalable back-end systems using Golang
+- 🔥 I’m `currently` working on personal projects to improve my skills and build my portfolio
+- 👀 Always `learning new things` and staying up-to-date with the latest technologies
 ### Now Playing 🎧
 &nbsp;<div align="center">
 
